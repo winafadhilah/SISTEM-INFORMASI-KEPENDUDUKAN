@@ -4,8 +4,20 @@
          	2. M.Donda Fauzan            (2017051036)
          	3. Wina Fadhilah             (2017051056)
 # STUDI KASUS 
-	Sistem Informasi Kependudukan yang dapat di kelola admin untuk kepentingan penduduk
+	Sistem Informasi Kependudukan yang dapat di kelola admin untuk kepentingan kependudukan
+	
 # RINCIAN PEMBAGIAN TUGAS
-	FRANZ KENZO:
-  -Kelola data KK (tambah,edit,hapus)
-  -Cetak surat kelahiran
+Franz Kenzo Handle:
+- Kelola data KK(tambah data,hapus data,edit data)
+- Cetak surat kelahiran
+
+Wina Fadhilah Handle:
+- Kelola data penduduk(tambah data,hapus data,edit data)
+- Cetak surat Perpindahan
+- Dashboard
+- Hosting
+
+M.donda Fauzan Handle:
+- Kelola data Permohonan KTP(tambah data,hapus data,edit data)
+- Cetak surat Kematian
+- Cetak surat Kedatangan
